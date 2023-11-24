@@ -5,4 +5,4 @@ my first gitty hub
 
 ### Boom Boom
 
-Hello Odin!
+Hello Odin! We're working with Git!!
